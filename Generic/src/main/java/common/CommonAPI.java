@@ -18,6 +18,7 @@ public class CommonAPI {
     public void setUp(String url) {
         System.setProperty("webdriver.chrome.driver", "/Users/rockytopna/Documents/RockyFramework/Generic/src/main/java/driver/chromedriver");
         driver = new ChromeDriver();
+        driver.manage().timeouts().pageLoadTimeout(100, TimeUnit.SECONDS);
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.get(url);
     }
@@ -25,29 +26,44 @@ public class CommonAPI {
     @AfterMethod
     public void cleanUp() {
         driver.close();
+
     }
 
     public void clickOnElement(String locator) {
         try {
             driver.findElement(By.cssSelector(locator)).click();
-        }catch(Exception ex){
-            try{
+        } catch (Exception ex) {
+            try {
                 driver.findElement(By.className(locator)).click();
-            }catch(Exception ex2){
-                try{
+            } catch (Exception ex2) {
+                try {
                     driver.findElement(By.id(locator)).click();
-                }catch(Exception ex3){
+                } catch (Exception ex3) {
                     driver.findElement(By.xpath(locator)).click();
                 }
             }
         }
     }
-    public void typeOnElement(String locator, String value){
+
+    public void typeOnElement(String locator, String value) {
         try {
             driver.findElement(By.cssSelector(locator)).sendKeys(value);
-        }catch(Exception ex){
-            driver.findElement(By.id(locator)).sendKeys(value);
+        } catch (Exception ex) {
+            try {
+                driver.findElement(By.id(locator)).sendKeys(value);
+            } catch (Exception ex1) {
+                try {
+                    driver.findElement(By.xpath(locator)).sendKeys(value);
+                } catch (Exception ex2) {
+                    try {
+                        driver.findElement(By.className(locator)).sendKeys(value);
+                    } catch (Exception ex3) {
+                        driver.findElement(By.linkText(locator)).sendKeys();
+                    }
+                }
+            }
         }
     }
-
 }
+
+

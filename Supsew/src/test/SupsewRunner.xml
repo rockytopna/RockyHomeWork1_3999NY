@@ -9,16 +9,14 @@
     <parameter name="os_version" value="Mojave"/>
     <parameter name="browser" value="chrome"/>
     <parameter name="browserVersion" value="79.0"/>
-    <parameter name="url" value="https://www.ebay.com"/>
+    <parameter name="url" value="https://www.supsew.com/"/>
     <parameter name="platform" value="mac"/>
 
     <test name="Automation tests">
         <classes>
             <class name="home.HomePage"/>
-            <class name="home.Registration"/>
+
 
         </classes>
     </test>
 </suite>
-
-
