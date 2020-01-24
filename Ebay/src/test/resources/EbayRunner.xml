@@ -14,8 +14,8 @@
 
     <test name="Automation tests">
         <classes>
-            <class name="home.HomePage"/>
-            <class name="home.Registration"/>
+            <class name="base.HomePage"/>
+            <class name="base.Registration"/>
 
         </classes>
     </test>
