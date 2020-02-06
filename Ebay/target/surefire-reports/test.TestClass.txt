@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: test.TestClass
+-------------------------------------------------------------------------------
+Tests run: 29, Failures: 2, Errors: 0, Skipped: 27, Time elapsed: 6.588 s <<< FAILURE! - in test.TestClass
+FansmemberPageTest40(test.TestClass)  Time elapsed: 3.161 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+Cannot locate an element using id=gh-ac
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Rockys-MacBook-Pro.local', ip: 'fe80:0:0:0:10cf:45cb:c082:33%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '12.0.2'
+Driver info: driver.version: RemoteWebDriver
+	at test.TestClass.FansmemberPageTest40(TestClass.java:313)
+
+cleanUp(test.TestClass)  Time elapsed: 3.198 s  <<< FAILURE!
+org.openqa.selenium.NoSuchWindowException: 
+no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=79.0.3945.130)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Rockys-MacBook-Pro.local', ip: 'fe80:0:0:0:10cf:45cb:c082:33%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '12.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.130, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: /var/folders/gk/_th88_pj6ld...}, goog:chromeOptions: {debuggerAddress: localhost:52138}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: dd79dad7b93323edb96764217924b7a7
+

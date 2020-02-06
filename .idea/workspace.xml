@@ -2,15 +2,86 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33d7150a-f4f6-4e79-8c9f-9871671ede2d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AA/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AA/src/main/java/test/DropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AA/src/test/AARunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/Extent-Report/ExtentReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/report-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/datasupply/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/Antiques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/Art.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/Baby.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/Books.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/BussinessAndIndustrial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/CameraAndPhoto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/CellPhoneAndAcc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/ClothingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/CoinAndPaper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/CollectiblesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/ComputerTablet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/Crafts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/DollsAndBears.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/DvdandMovies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/ElectronicsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/GiftCardAndCoupon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/HealthandBeauty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/HomeAndGargen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/JewelryAndWatches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/Motors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/Music.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/MusicInstrument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/PetSupplies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/PotteryAndGlass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/RealEstate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/SpecilityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/SportingFanShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/SportingGood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/Stapms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/TicketAndExperience.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/Toys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/dropdownsearch/Travels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/opennewtab/NewTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/pages/SearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/test/java/registration/SignUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/test/java/search/SearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/test/java/test/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/secret.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Supsew/Supsew.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Supsew/src/main/java/home/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Supsew/src/main/java/home/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Supsew/src/test/SupsewRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Supsew/src/test/SupsewRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AA/src/main/java/test/DropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/AA/src/main/java/test/DropDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AA/target/classes/test/DropDown.class" beforeDir="false" afterPath="$PROJECT_DIR$/AA/target/classes/test/DropDown.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AA/target/classes/test/DynamicDropDown.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/src/main/java/base/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/main/java/base/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/src/main/java/base/Registration.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/main/java/base/Registration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/src/test/resources/EbayRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/test/resources/EbayRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/target/Ebay-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/target/classes/home/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/target/classes/home/Registration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/target/test-classes/EbayRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/target/test-classes/EbayRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/common/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/common/CommonAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Supsew/target/Supsew-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Supsew/target/classes/META-INF/Supsew.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Supsew/target/classes/home/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Supsew/target/classes/home/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Supsew/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Supsew/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Supsew/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Supsew/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +99,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="TestNG" name="$PROJECT_DIR$/Ebay/src/test/resources/EbayRunner.xml" />
+    </enabled-run-configurations>
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -36,47 +112,55 @@
     </option>
   </component>
   <component name="ProjectId" id="1WgG05uSEVU8rcj65mf0p2y0vDP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Generic/src/main/java/driver" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Generic/src/main/java" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Generic/src/main/java" />
+      <recent name="$PROJECT_DIR$/Ebay/Extended-Report" />
+      <recent name="$PROJECT_DIR$/Generic/src" />
+      <recent name="$PROJECT_DIR$/Generic/src/main/java/driver" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Generic/src/main/java" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Generic/src/main/java/driver" />
-    </key>
   </component>
-  <component name="RunManager" selected="TestNG./Users/rockytopna/Documents/RockyFramework/AA/src/test/AARunner.xml">
-    <configuration name="DropDown" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Supsew" />
+  <component name="RunManager" selected="TestNG./Users/rockytopna/Documents/RockyFramework/Ebay/src/test/resources/EbayRunner.xml">
+    <configuration name="SearchTest.search" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Ebay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="base.*" />
+          <option name="PATTERN" value="search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="home" />
-      <option name="MAIN_CLASS_NAME" value="home.DropDown" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="search" />
+      <option name="MAIN_CLASS_NAME" value="search.SearchTest" />
+      <option name="METHOD_NAME" value="search" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DropDown" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AA" />
+    <configuration name="TestClass" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Ebay" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="test.*" />
@@ -84,7 +168,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.DropDown" />
+      <option name="MAIN_CLASS_NAME" value="test.TestClass" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -92,19 +176,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="/Users/rockytopna/Documents/RockyFramework/AA/src/test/AARunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AA" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/AA/src/test/AARunner.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+    <configuration name="TestClass.coinPageTest22" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Ebay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TestClass" />
+      <option name="METHOD_NAME" value="coinPageTest22" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="/Users/rockytopna/Documents/RockyFramework/Emirates/src/test/EmiratesRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AA" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Emirates/src/test/EmiratesRunner.xml" />
+    <configuration name="/Users/rockytopna/Documents/RockyFramework/Ebay/src/test/resources/EbayRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Ebay" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Ebay/src/test/resources/EbayRunner.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -124,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG./Users/rockytopna/Documents/RockyFramework/AA/src/test/AARunner.xml" />
-        <item itemvalue="TestNG./Users/rockytopna/Documents/RockyFramework/Emirates/src/test/EmiratesRunner.xml" />
-        <item itemvalue="TestNG.DynamicDropDown" />
+        <item itemvalue="TestNG./Users/rockytopna/Documents/RockyFramework/Ebay/src/test/resources/EbayRunner.xml" />
+        <item itemvalue="TestNG.SearchTest.search" />
+        <item itemvalue="TestNG.TestClass.coinPageTest22" />
+        <item itemvalue="TestNG.TestClass" />
         <item itemvalue="TestNG./Users/rockytopna/Documents/RockyFramework/Supsew/src/test/SupsewRunner.xml" />
-        <item itemvalue="TestNG.DropDown" />
       </list>
     </recent_temporary>
   </component>
@@ -170,34 +262,85 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="340" y="111" key="#Project_Structure" timestamp="1580437854688">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="340" y="111" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1580437854688" />
+    <state x="356" y="129" key="#SearchTest" timestamp="1580706825087">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="356" y="129" key="#SearchTest/0.0.1680.1050@0.0.1680.1050" timestamp="1580706825087" />
+    <state x="515" y="245" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1580431349508">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="515" y="245" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1580431349508" />
     <state x="528" y="237" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579926668867">
       <screen x="0" y="23" width="1680" height="973" />
     </state>
     <state x="528" y="237" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1680.973@0.23.1680.973" timestamp="1579926668867" />
-    <state width="1348" height="217" key="GridCell.Tab.0.bottom" timestamp="1579934655617">
-      <screen x="0" y="23" width="1680" height="967" />
+    <state width="1628" height="217" key="GridCell.Tab.0.bottom" timestamp="1580955302013">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="217" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1579930543131" />
+    <state width="1628" height="217" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1580955302013" />
+    <state width="1628" height="217" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1580608281832" />
     <state width="1348" height="217" key="GridCell.Tab.0.bottom/0.23.1680.967@0.23.1680.967" timestamp="1579934655617" />
-    <state width="1348" height="217" key="GridCell.Tab.0.center" timestamp="1579934655616">
-      <screen x="0" y="23" width="1680" height="967" />
+    <state width="1628" height="217" key="GridCell.Tab.0.center" timestamp="1580955302011">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="217" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1579930543130" />
+    <state width="1628" height="217" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1580955302011" />
+    <state width="1628" height="217" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1580608281831" />
     <state width="1348" height="217" key="GridCell.Tab.0.center/0.23.1680.967@0.23.1680.967" timestamp="1579934655616" />
-    <state width="1348" height="217" key="GridCell.Tab.0.left" timestamp="1579934655615">
-      <screen x="0" y="23" width="1680" height="967" />
+    <state width="1628" height="217" key="GridCell.Tab.0.left" timestamp="1580955302010">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="217" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1579930543129" />
+    <state width="1628" height="217" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1580955302010" />
+    <state width="1628" height="217" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1580608281831" />
     <state width="1348" height="217" key="GridCell.Tab.0.left/0.23.1680.967@0.23.1680.967" timestamp="1579934655615" />
-    <state width="1348" height="217" key="GridCell.Tab.0.right" timestamp="1579934655616">
-      <screen x="0" y="23" width="1680" height="967" />
+    <state width="1628" height="217" key="GridCell.Tab.0.right" timestamp="1580955302012">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="217" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1579930543131" />
+    <state width="1628" height="217" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1580955302012" />
+    <state width="1628" height="217" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1580608281832" />
     <state width="1348" height="217" key="GridCell.Tab.0.right/0.23.1680.967@0.23.1680.967" timestamp="1579934655616" />
+    <state width="1628" height="337" key="GridCell.Tab.1.bottom" timestamp="1580844587222">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1628" height="337" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1580844587222" />
+    <state width="1628" height="337" key="GridCell.Tab.1.center" timestamp="1580844587221">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1628" height="337" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1580844587221" />
+    <state width="1628" height="337" key="GridCell.Tab.1.left" timestamp="1580844587220">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1628" height="337" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1580844587220" />
+    <state width="1628" height="337" key="GridCell.Tab.1.right" timestamp="1580844587221">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1628" height="337" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1580844587221" />
+    <state x="265" y="109" key="Maven.ArtifactSearchDialog" timestamp="1580800984458">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="265" y="109" key="Maven.ArtifactSearchDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1580800984458" />
+    <state x="255" y="76" key="SettingsEditor" timestamp="1580606207076">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="255" y="76" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1580606207076" />
     <state x="357" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1579926705398">
       <screen x="0" y="23" width="1680" height="973" />
     </state>
     <state x="357" y="306" key="com.intellij.ide.util.TipDialog/0.23.1680.973@0.23.1680.973" timestamp="1579926705398" />
+    <state x="525" y="431" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580253545814">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="525" y="431" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1580253545814" />
+    <state x="0" y="23" width="1680" height="973" key="new project wizard" timestamp="1579984133239">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="0" y="23" width="1680" height="973" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1579984133239" />
   </component>
 </project>

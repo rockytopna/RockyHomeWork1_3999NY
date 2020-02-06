@@ -20,5 +20,7 @@ public class DropDown extends CommonAPI {
         Select dropDown = new Select (driver.findElement(By.name("adultOrSeniorPassengerCount")));
         dropDown.selectByValue("2");
     Thread.sleep(1000);
+
+
     }
 }
